@@ -1,9 +1,5 @@
 package ado1;
 
-// Vitor gabriel melo Silva
-// Mateus Soares Costa
-
-
 public class Ex2 {
 	public static void main(String[] args) {
 	
